@@ -1,7 +1,7 @@
 # H1N1-versus-COVID-19-classification
 This repository is an implementation over the OPI model to discriminate between COVID-19 and H1N1 subjects.
 # Introduction 
- COVID-19 and swine-origin influenza A (H1N1) are both pandemics that sparked significant concern world
+<p align="justify"> COVID-19 and swine-origin influenza A (H1N1) are both pandemics that sparked significant concern world
 wide. Since these two diseases have common symptoms, a fast COVID-19 versus H1N1 screening helps better
  manage patients at healthcare facilities. We present a novel deep model, called Optimized Parallel Inception,
  for fast screening of COVID-19 and H1N1 patients. We also present a Semi-supervised Generative Adversarial
@@ -13,7 +13,7 @@ wide. Since these two diseases have common symptoms, a fast COVID-19 versus H1N1
  99.6% for COVID-19 and H1N1, respectively. According to our analysis, the most significant symptoms and
  underlying chronic diseases for COVID-19 versus H1N1 screening are dry cough, breathing problems, diabetes,
  and gastrointestinal
-
+</p>
 # UI
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ecc25ab7-2ed8-464e-a009-d2a8449370b4" width="330"  border-style="solid"
