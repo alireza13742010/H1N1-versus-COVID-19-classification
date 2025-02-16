@@ -23,8 +23,11 @@ wide. Since these two diseases have common symptoms, a fast COVID-19 versus H1N1
   <img src="https://github.com/user-attachments/assets/9b93a60d-6941-48f6-a435-680d1de0589a" width="660">
 </p>
 
+# Explanation 
+Please check the Link: https://drive.google.com/file/d/1mOhbdXB9JodHHIhrprw9qA1Qw2fJdAKt/view?usp=sharing
 # Contact US
 Linkdin: https://www.linkedin.com/in/alireza-tavakolian-6a23161b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7vyB5I2RRTeWDEvHUwtjbQ%3D%3D
+
 Mail = alirezatavakolian1374@gmail.com
 # Citation 
 Tavakolian, A., Hajati, F., Rezaee, A., Fasakhodi, A. O., & Uddin, S. (2022). Fast covid-19 versus h1n1 screening using optimized parallel inception. Expert systems with applications, 204, 117551.
