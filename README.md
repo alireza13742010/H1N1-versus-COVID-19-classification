@@ -14,6 +14,7 @@ wide. Since these two diseases have common symptoms, a fast COVID-19 versus H1N1
  underlying chronic diseases for COVID-19 versus H1N1 screening are dry cough, breathing problems, diabetes,
  and gastrointestinal
 </p>
+
 # UI
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ecc25ab7-2ed8-464e-a009-d2a8449370b4" width="330"  border-style="solid"
