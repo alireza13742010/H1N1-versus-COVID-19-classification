@@ -15,8 +15,11 @@ wide. Since these two diseases have common symptoms, a fast COVID-19 versus H1N1
  and gastrointestinal
 
 # UI
-![Capture](https://github.com/user-attachments/assets/ecc25ab7-2ed8-464e-a009-d2a8449370b4)
-![Capture](https://github.com/user-attachments/assets/cb6f05fd-ab9f-4682-88e9-e5a2ebeda7d3)
-![Capture](https://github.com/user-attachments/assets/9b93a60d-6941-48f6-a435-680d1de0589a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ecc25ab7-2ed8-464e-a009-d2a8449370b4" width="350">
+  <img src="https://github.com/user-attachments/assets/cb6f05fd-ab9f-4682-88e9-e5a2ebeda7d3" width="350">
+  <img src="https://github.com/user-attachments/assets/9b93a60d-6941-48f6-a435-680d1de0589a" width="350">
+</p>
+
 # Citation 
 Tavakolian, A., Hajati, F., Rezaee, A., Fasakhodi, A. O., & Uddin, S. (2022). Fast covid-19 versus h1n1 screening using optimized parallel inception. Expert systems with applications, 204, 117551.
